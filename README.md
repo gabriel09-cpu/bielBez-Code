@@ -4,7 +4,7 @@ Seja bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar projetos de c�
 
 ## Sobre Mim
 
-Sou [Seu Nome], um(a) desenvolvedor(a) apaixonado(a) por [tecnologias ou áreas de interesse, como JavaScript, Python, Inteligência Artificial, etc.]. Gosto de explorar novas ideias, aprender e compartilhar o que sei com a comunidade. Este é o meu espaço para trabalhar em projetos, colaborar com outros desenvolvedores e, claro, aprimorar minhas habilidades.
+Sou Gabriel Bezerra, um(a) desenvolvedor(a) apaixonado(a) por [tecnologias ou áreas de interesse, como JavaScript, Python, Inteligência Artificial, etc.]. Gosto de explorar novas ideias, aprender e compartilhar o que sei com a comunidade. Este é o meu espaço para trabalhar em projetos, colaborar com outros desenvolvedores e, claro, aprimorar minhas habilidades.
 
 - 🌱 Atualmente estou aprendendo mais sobre [tecnologias ou ferramentas que está estudando].
 - ⚡ Curiosidades: [algo interessante sobre você, como hobbies ou interesses fora da programação].
