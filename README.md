@@ -1,4 +1,7 @@
-#import Desenvolvedor from "Gabriel Brito";
+bielBez-Code / README
+
+
+import Desenvolvedor from "Gabriel Brito";
 
 class SobreMim extends Desenvolvedor {
   nome = "Gabriel Brito de Sousa";
